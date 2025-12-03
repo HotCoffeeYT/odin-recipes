@@ -25,6 +25,9 @@ body {
 }
 .chocochip.back {
 	background-image: url('recipes/cookieoutback.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 ul {
 	border: 5px;
